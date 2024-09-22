@@ -20,3 +20,5 @@ variable "region" {
 variable "instance_type" {    
   type = string
 }
+
+## Added by Ajmal on 9/22/24
